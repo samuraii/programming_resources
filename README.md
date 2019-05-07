@@ -26,6 +26,12 @@ https://codeforces.com
 
 https://www.khanacademy.org
 
+https://open.kattis.com
+
+https://www.datacamp.com (some stages for free)
+
+https://javarush.ru (first 10 levels for free)
+
 https://stepik.org
 
 https://htmlacademy.ru
