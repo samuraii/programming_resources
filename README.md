@@ -27,3 +27,4 @@ https://codeforces.com
 https://www.khanacademy.org
 
 https://stepik.org
+https://htmlacademy.ru/
