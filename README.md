@@ -20,6 +20,8 @@ https://www.codechef.com
 
 https://www.codingame.com
 
+http://exercism.io/
+
 https://www.spoj.com
 
 https://codeforces.com
